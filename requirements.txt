@@ -1,0 +1,6 @@
+streamlit
+pyshark
+pandas
+plotly
+geoip2
+fpdf
